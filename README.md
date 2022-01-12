@@ -1,5 +1,4 @@
 # hello-world
-my first
 this is my info.
 😃hi, I'm linh.
 🚲I'm from Viet Nam.
